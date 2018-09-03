@@ -1,0 +1,6 @@
+
+target 'WKWebView-Swift' do
+
+  use_frameworks!
+    pod ‘SnapKit’
+end
