@@ -1,5 +1,5 @@
 PODS:
-  - SnapKit (4.0.0)
+  - SnapKit (5.0.0)
 
 DEPENDENCIES:
   - SnapKit
@@ -9,8 +9,8 @@ SPEC REPOS:
     - SnapKit
 
 SPEC CHECKSUMS:
-  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+  SnapKit: fd22d10eb9aff484d79a8724eab922c1ddf89bcf
 
 PODFILE CHECKSUM: b9241b7d06ae9a508f7b63bd52e1ecd13a56c923
 
-COCOAPODS: 1.5.3
+COCOAPODS: 1.6.2
